@@ -1,8 +1,8 @@
 {
   "name": "monorepo",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
-  "author": "ahmet.kapusuz",
+  "author": "Ahmet Kapusuz",
   "license": "MIT",
   "private": "true",
   "workspaces": [
